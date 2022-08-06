@@ -1,0 +1,8 @@
+creat x = 1
+creat y = 5
+creat sum = x + y
+depict > x
+whether(x > 0) {
+	depict > y 
+}
+
